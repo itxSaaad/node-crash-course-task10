@@ -1,0 +1,23 @@
+{
+  "name": "crash-course-task10",
+  "version": "1.0.0",
+  "description": "A simple Node.js project to understand the basics of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itxSaaad/node-crash-course-task10.git"
+  },
+  "keywords": [
+    "node.js",
+    "traversy-media"
+  ],
+  "author": "Muhammad Saad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itxSaaad/node-crash-course-task10/issues"
+  },
+  "homepage": "https://github.com/itxSaaad/node-crash-course-task10#readme"
+}
