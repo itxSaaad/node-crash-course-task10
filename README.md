@@ -31,11 +31,19 @@
 
 ## Features
 
-- **What is Node.js?**
-- **Modules** - CommonJS, ES Modules
-- **HTTP Module** - Req/Res, Routing, Serving JSON/HTML
-- **Custom Middleware** - Logger, URL Logger
-- **Other Core Modules** - OS, Path, FS, URL, Events, Process
+- **Node REPL:** Interactive shell for executing Node.js commands
+- **CommonJS Modules:** Importing and exporting modules using CommonJS syntax
+- **ES Modules:** Using modern ES6 module syntax
+- **HTTP Module:** Creating and handling HTTP servers
+- **Environment Variables:** Managing configuration using .env files
+- **Routing:** Simple routing setup for handling different endpoints
+- **File System Module:** Reading and writing files
+- **Path Module:** Handling and transforming file paths
+- **OS Module:** Interacting with the operating system
+- **URL Module:** Parsing and formatting URLs
+- **Crypto Module:** Using cryptographic functions
+- **Events:** Emitting and handling events
+- **Process Object:** Interacting with the process running the Node.js application
 
 ## Built With
 
@@ -58,13 +66,19 @@
 git clone https://github.com/itxSaaad/node-crash-course-task10.git
 ```
 
-2.Install NPM packages
+2.Navigate to the project directory
+
+```sh
+cd node-crash-course-task10
+```
+
+3.Install dependencies
 
 ```sh
 npm install
 ```
 
-3.Start the development server
+4.Run the project
 
 ```sh
 npm start
