@@ -1,1 +1,3 @@
-console.log('Hello World!');
+import { getPosts } from './postController.js';
+
+console.log(getPosts());
